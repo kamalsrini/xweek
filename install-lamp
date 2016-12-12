@@ -15,7 +15,7 @@ if [ "$run" == n ] ; then
 exit
 else
 echo "============================================"
-echo "A robot is now installing WordPress for you."
+echo "Now installing WordPress for you."
 echo "============================================"
 #### Update the OS before installing applications
 sudo yum update -y
